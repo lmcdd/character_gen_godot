@@ -1,6 +1,5 @@
-# perlin_godot
+# character_gen_godot
 
-Version: 0.01b
 
 ![alt tag](image.png)
 
